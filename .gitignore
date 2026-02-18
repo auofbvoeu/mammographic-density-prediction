@@ -3,4 +3,8 @@
 data/
 rsna-small.zip
 output/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
 temp.ipynb
