@@ -1,4 +1,6 @@
 .venv
+.vscode/
 data/
 rsna-small.zip
 output/
+temp.ipynb
